@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Software Engineering student at COMSATS University Islamabad, Class of [Your Graduation Year].<br>🌱 Currently learning Machine Learning, Data Structures, Algorithms, and Web Development.<br>💻 Interested in full-stack development, mobile app development, and AI-driven systems.<br>🔭 Working on personal projects and collaborating on group projects in university.<br>🌟 I’m looking to gain experience in software development through internships and open-source contributions.
+🎓 Software Engineering student at COMSATS University Islamabad, Class of 2027.<br>🌱 Currently learning Machine Learning, Data Structures, Algorithms, and Web Development.<br>💻 Interested in full-stack development, mobile app development, and AI-driven systems.<br>🔭 Working on personal projects and collaborating on group projects in university.<br>🌟 I’m looking to gain experience in software development through internships and open-source contributions.
 
 
 ## 🌐 Socials:
